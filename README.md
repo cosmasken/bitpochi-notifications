@@ -2,7 +2,7 @@
 
 # IC-POS Notifications
 
-This is a companion Netlify function for [IC-POS](https://github.com/kristoferlund/ic-pos), a simple Point of Sale app that allows users to accept ckBTC payments on the Internet Computer.
+This is a companion Netlify function for [IC-POS](https://github.com/cosmasken/bitpochi-vue), a simple Point of Sale app that allows users to accept ckBTC payments on the Internet Computer.
 
 ## Overview
 

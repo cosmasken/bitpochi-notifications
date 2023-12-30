@@ -1,5 +1,5 @@
 {
-  "name": "ic-pos-notifications",
+  "name": "bitpochi-notifications",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "url": "https://github.com/cosmasken/bitpochi-notifications"
   },
   "bugs": "https://github.com/cosmasken/bitpochi-notifications/issues",
-  "homepage": "https://github.com/cosmasken/bitpochi-notifcications",
+  "homepage": "https://github.com/cosmasken/bitpochi-notifications",
   "author": "Cosmas Ken <arubacosmas@gmail.com>",
   "keywords": [
     "pos",
