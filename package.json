@@ -3,14 +3,14 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "description": "Netlify function that sends notifications for IC-POS using Courier/Mailgun/Twilio",
+  "description": "Netlify function that sends notifications for BiPochi using Courier/Mailgun/Twilio",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cosmasken/ic-pos-notifications"
+    "url": "https://github.com/cosmasken/bitpochi-notifications"
   },
-  "bugs": "https://github.com/cosmasken/ic-pos-notifications/issues",
-  "homepage": "https://github.com/cosmasken/ic-pos-notifcications",
+  "bugs": "https://github.com/cosmasken/bitpochi-notifications/issues",
+  "homepage": "https://github.com/cosmasken/bitpochi-notifcications",
   "author": "Cosmas Ken <arubacosmas@gmail.com>",
   "keywords": [
     "pos",
