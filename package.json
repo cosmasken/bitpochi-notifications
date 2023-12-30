@@ -1,0 +1,38 @@
+{
+  "name": "ic-pos-notifications",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Netlify function that sends notifications for IC-POS using Courier/Mailgun/Twilio",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cosmasken/ic-pos-notifications"
+  },
+  "bugs": "https://github.com/cosmasken/ic-pos-notifications/issues",
+  "homepage": "https://github.com/cosmasken/ic-pos-notifcications",
+  "author": "Cosmas Ken <arubacosmas@gmail.com>",
+  "keywords": [
+    "pos",
+    "bitcoin",
+    "ckbtc",
+    "dfinity",
+    "ic",
+    "netlify",
+    "function",
+    "twilio",
+    "typescript",
+    "courier",
+    "mailgun"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@netlify/functions": "^1.6.0",
+    "@trycourier/courier": "^4.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.2"
+  }
+}
