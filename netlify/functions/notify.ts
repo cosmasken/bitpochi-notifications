@@ -79,7 +79,7 @@ const handler: Handler = async (
             to: {
               email: body.email,
             },
-            template: "WJKFSV1362MGZEHW9G7EMMPZDMMW",
+            template: "D50G0113M2MTAMHQHC359F5TPMVV",
             data: {
               amount: amount.toFixed(9).replace(/0+$/, ""),
               payer: body.payer,
